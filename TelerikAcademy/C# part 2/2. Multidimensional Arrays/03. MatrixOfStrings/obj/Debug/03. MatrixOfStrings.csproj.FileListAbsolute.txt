@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\03. MatrixOfStrings\bin\Debug\_03.MatrixOfStrings.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\03. MatrixOfStrings\bin\Debug\_03.MatrixOfStrings.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\03. MatrixOfStrings\bin\Debug\_03.MatrixOfStrings.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\03. MatrixOfStrings\obj\Debug\03. MatrixOfStrings.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\03. MatrixOfStrings\obj\Debug\_03.MatrixOfStrings.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\03. MatrixOfStrings\obj\Debug\_03.MatrixOfStrings.pdb

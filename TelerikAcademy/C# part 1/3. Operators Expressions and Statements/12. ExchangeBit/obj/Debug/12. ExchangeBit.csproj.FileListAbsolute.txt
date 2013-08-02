@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\12. ExchangeBit\bin\Debug\_12.ExchangeBit.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\12. ExchangeBit\bin\Debug\_12.ExchangeBit.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\12. ExchangeBit\bin\Debug\_12.ExchangeBit.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\12. ExchangeBit\obj\Debug\_12.ExchangeBit.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\12. ExchangeBit\obj\Debug\_12.ExchangeBit.pdb

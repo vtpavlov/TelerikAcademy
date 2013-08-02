@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\05. NameOfDigit\bin\Debug\_05.NameOfDigit.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\05. NameOfDigit\bin\Debug\_05.NameOfDigit.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\05. NameOfDigit\bin\Debug\_05.NameOfDigit.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\05. NameOfDigit\obj\Debug\_05.NameOfDigit.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\05. NameOfDigit\obj\Debug\_05.NameOfDigit.pdb

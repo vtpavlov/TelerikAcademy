@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\15. PrimeNumbers\bin\Debug\_15.PrimeNumbers.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\15. PrimeNumbers\bin\Debug\_15.PrimeNumbers.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\15. PrimeNumbers\bin\Debug\_15.PrimeNumbers.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\15. PrimeNumbers\obj\Debug\_15.PrimeNumbers.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\15. PrimeNumbers\obj\Debug\_15.PrimeNumbers.pdb

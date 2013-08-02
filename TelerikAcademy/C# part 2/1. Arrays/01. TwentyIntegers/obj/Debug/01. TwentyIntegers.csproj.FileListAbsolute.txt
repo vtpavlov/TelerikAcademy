@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\01. TwentyIntegers\bin\Debug\_01.TwentyIntegers.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\01. TwentyIntegers\bin\Debug\_01.TwentyIntegers.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\01. TwentyIntegers\bin\Debug\_01.TwentyIntegers.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\01. TwentyIntegers\obj\Debug\01. TwentyIntegers.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\01. TwentyIntegers\obj\Debug\_01.TwentyIntegers.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\01. TwentyIntegers\obj\Debug\_01.TwentyIntegers.pdb

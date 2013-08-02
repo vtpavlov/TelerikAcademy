@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\04. NumbersBetween\bin\Debug\_04.NumbersBetween.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\04. NumbersBetween\bin\Debug\_04.NumbersBetween.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\04. NumbersBetween\bin\Debug\_04.NumbersBetween.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\04. NumbersBetween\obj\Debug\_04.NumbersBetween.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\04. NumbersBetween\obj\Debug\_04.NumbersBetween.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\04. NumbersBetween\obj\Debug\04. NumbersBetween.csprojResolveAssemblyReference.cache

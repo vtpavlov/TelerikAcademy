@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\02. FloatAndDouble\bin\Debug\_02.FloatAndDouble.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\02. FloatAndDouble\bin\Debug\_02.FloatAndDouble.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\02. FloatAndDouble\bin\Debug\_02.FloatAndDouble.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\02. FloatAndDouble\obj\Debug\_02.FloatAndDouble.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\02. FloatAndDouble\obj\Debug\_02.FloatAndDouble.pdb

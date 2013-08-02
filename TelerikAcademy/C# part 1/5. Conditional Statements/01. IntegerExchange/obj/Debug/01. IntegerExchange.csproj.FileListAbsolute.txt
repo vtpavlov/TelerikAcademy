@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\01. IntegerExchange\bin\Debug\_01.IntegerExchange.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\01. IntegerExchange\bin\Debug\_01.IntegerExchange.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\01. IntegerExchange\bin\Debug\_01.IntegerExchange.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\01. IntegerExchange\obj\Debug\01. IntegerExchange.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\01. IntegerExchange\obj\Debug\_01.IntegerExchange.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\01. IntegerExchange\obj\Debug\_01.IntegerExchange.pdb

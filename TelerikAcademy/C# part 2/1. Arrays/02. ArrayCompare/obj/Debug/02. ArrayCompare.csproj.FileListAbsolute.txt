@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\02. ArrayCompare\bin\Debug\_02.ArrayCompare.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\02. ArrayCompare\bin\Debug\_02.ArrayCompare.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\02. ArrayCompare\bin\Debug\_02.ArrayCompare.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\02. ArrayCompare\obj\Debug\_02.ArrayCompare.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\02. ArrayCompare\obj\Debug\_02.ArrayCompare.pdb

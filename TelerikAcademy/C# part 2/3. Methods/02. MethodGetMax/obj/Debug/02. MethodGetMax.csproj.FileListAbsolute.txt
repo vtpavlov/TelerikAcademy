@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\02. MethodGetMax\bin\Debug\_02.MethodGetMax.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\02. MethodGetMax\bin\Debug\_02.MethodGetMax.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\02. MethodGetMax\bin\Debug\_02.MethodGetMax.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\02. MethodGetMax\obj\Debug\02. MethodGetMax.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\02. MethodGetMax\obj\Debug\_02.MethodGetMax.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\02. MethodGetMax\obj\Debug\_02.MethodGetMax.pdb

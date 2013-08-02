@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\12. PolynomialsOperations\bin\Debug\_12.PolynomialsOperations.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\12. PolynomialsOperations\bin\Debug\_12.PolynomialsOperations.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\12. PolynomialsOperations\bin\Debug\_12.PolynomialsOperations.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\12. PolynomialsOperations\obj\Debug\_12.PolynomialsOperations.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\12. PolynomialsOperations\obj\Debug\_12.PolynomialsOperations.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\12. PolynomialsOperations\obj\Debug\12. PolynomialsOperations.csprojResolveAssemblyReference.cache

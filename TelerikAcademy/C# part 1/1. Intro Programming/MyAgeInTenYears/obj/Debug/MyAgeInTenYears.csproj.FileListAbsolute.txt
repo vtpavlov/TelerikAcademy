@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\MyAgeInTenYears\bin\Debug\MyAgeInTenYears.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\MyAgeInTenYears\bin\Debug\MyAgeInTenYears.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\MyAgeInTenYears\bin\Debug\MyAgeInTenYears.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\MyAgeInTenYears\obj\Debug\MyAgeInTenYears.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\MyAgeInTenYears\obj\Debug\MyAgeInTenYears.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\MyAgeInTenYears\obj\Debug\MyAgeInTenYears.csprojResolveAssemblyReference.cache

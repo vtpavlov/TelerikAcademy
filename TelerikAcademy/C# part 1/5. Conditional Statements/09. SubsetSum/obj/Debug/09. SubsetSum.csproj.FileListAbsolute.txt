@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\09. SubsetSum\bin\Debug\_09.SubsetSum.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\09. SubsetSum\bin\Debug\_09.SubsetSum.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\09. SubsetSum\bin\Debug\_09.SubsetSum.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\09. SubsetSum\obj\Debug\09. SubsetSum.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\09. SubsetSum\obj\Debug\_09.SubsetSum.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\09. SubsetSum\obj\Debug\_09.SubsetSum.pdb

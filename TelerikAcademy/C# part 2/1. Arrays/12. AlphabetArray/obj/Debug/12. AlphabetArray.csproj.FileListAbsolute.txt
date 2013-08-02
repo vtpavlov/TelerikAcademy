@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\12. AlphabetArray\bin\Debug\_12.AlphabetArray.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\12. AlphabetArray\bin\Debug\_12.AlphabetArray.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\12. AlphabetArray\bin\Debug\_12.AlphabetArray.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\12. AlphabetArray\obj\Debug\_12.AlphabetArray.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\12. AlphabetArray\obj\Debug\_12.AlphabetArray.pdb

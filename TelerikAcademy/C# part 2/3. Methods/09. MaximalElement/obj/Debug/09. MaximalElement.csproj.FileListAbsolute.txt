@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\09. MaximalElement\bin\Debug\_09.MaximalElement.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\09. MaximalElement\bin\Debug\_09.MaximalElement.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\09. MaximalElement\bin\Debug\_09.MaximalElement.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\09. MaximalElement\obj\Debug\09. MaximalElement.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\09. MaximalElement\obj\Debug\_09.MaximalElement.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\09. MaximalElement\obj\Debug\_09.MaximalElement.pdb

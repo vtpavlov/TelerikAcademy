@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\01. MethodAskingForName\bin\Debug\_01.MethodAskingForName.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\01. MethodAskingForName\bin\Debug\_01.MethodAskingForName.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\01. MethodAskingForName\bin\Debug\_01.MethodAskingForName.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\01. MethodAskingForName\obj\Debug\01. MethodAskingForName.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\01. MethodAskingForName\obj\Debug\_01.MethodAskingForName.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\01. MethodAskingForName\obj\Debug\_01.MethodAskingForName.pdb

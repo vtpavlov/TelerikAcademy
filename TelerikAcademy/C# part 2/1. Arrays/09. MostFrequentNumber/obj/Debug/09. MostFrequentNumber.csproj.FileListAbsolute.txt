@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\09. MostFrequentNumber\bin\Debug\_09.MostFrequentNumber.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\09. MostFrequentNumber\bin\Debug\_09.MostFrequentNumber.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\09. MostFrequentNumber\bin\Debug\_09.MostFrequentNumber.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\09. MostFrequentNumber\obj\Debug\_09.MostFrequentNumber.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\09. MostFrequentNumber\obj\Debug\_09.MostFrequentNumber.pdb

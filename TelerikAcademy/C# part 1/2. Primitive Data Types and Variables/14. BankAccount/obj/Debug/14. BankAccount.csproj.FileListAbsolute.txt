@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\14. BankAccount\bin\Debug\_14.BankAccount.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\14. BankAccount\bin\Debug\_14.BankAccount.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\14. BankAccount\bin\Debug\_14.BankAccount.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\14. BankAccount\obj\Debug\_14.BankAccount.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\14. BankAccount\obj\Debug\_14.BankAccount.pdb

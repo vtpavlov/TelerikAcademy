@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\06. IndexOfFirstBiggerNeighbour\bin\Debug\_06.IndexOfFirstBiggerNeighbour.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\06. IndexOfFirstBiggerNeighbour\bin\Debug\_06.IndexOfFirstBiggerNeighbour.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\06. IndexOfFirstBiggerNeighbour\bin\Debug\_06.IndexOfFirstBiggerNeighbour.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\06. IndexOfFirstBiggerNeighbour\obj\Debug\06. IndexOfFirstBiggerNeighbour.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\06. IndexOfFirstBiggerNeighbour\obj\Debug\_06.IndexOfFirstBiggerNeighbour.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\06. IndexOfFirstBiggerNeighbour\obj\Debug\_06.IndexOfFirstBiggerNeighbour.pdb

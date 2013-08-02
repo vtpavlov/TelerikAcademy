@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\05. MinimalIncreasingSequence\bin\Debug\_05.MinimalIncreasingSequence.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\05. MinimalIncreasingSequence\bin\Debug\_05.MinimalIncreasingSequence.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\05. MinimalIncreasingSequence\bin\Debug\_05.MinimalIncreasingSequence.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\05. MinimalIncreasingSequence\obj\Debug\_05.MinimalIncreasingSequence.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\05. MinimalIncreasingSequence\obj\Debug\_05.MinimalIncreasingSequence.pdb

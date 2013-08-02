@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\03. BiggestOfThree\bin\Debug\_03.BiggestOfThree.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\03. BiggestOfThree\bin\Debug\_03.BiggestOfThree.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\03. BiggestOfThree\bin\Debug\_03.BiggestOfThree.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\03. BiggestOfThree\obj\Debug\03. BiggestOfThree.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\03. BiggestOfThree\obj\Debug\_03.BiggestOfThree.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\03. BiggestOfThree\obj\Debug\_03.BiggestOfThree.pdb

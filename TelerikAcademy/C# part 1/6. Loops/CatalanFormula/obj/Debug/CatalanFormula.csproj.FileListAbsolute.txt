@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\CatalanFormula\bin\Debug\CatalanFormula.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\CatalanFormula\bin\Debug\CatalanFormula.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\CatalanFormula\bin\Debug\CatalanFormula.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\CatalanFormula\obj\Debug\CatalanFormula.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\CatalanFormula\obj\Debug\CatalanFormula.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\CatalanFormula\obj\Debug\CatalanFormula.pdb

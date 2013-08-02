@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\14. NumberOperations\bin\Debug\_14.NumberOperations.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\14. NumberOperations\bin\Debug\_14.NumberOperations.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\14. NumberOperations\bin\Debug\_14.NumberOperations.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\14. NumberOperations\obj\Debug\_14.NumberOperations.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\14. NumberOperations\obj\Debug\_14.NumberOperations.pdb

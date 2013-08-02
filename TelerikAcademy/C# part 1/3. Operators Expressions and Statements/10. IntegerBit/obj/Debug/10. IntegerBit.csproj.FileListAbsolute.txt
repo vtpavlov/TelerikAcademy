@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\10. IntegerBit\bin\Debug\_10.IntegerBit.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\10. IntegerBit\bin\Debug\_10.IntegerBit.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\10. IntegerBit\bin\Debug\_10.IntegerBit.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\10. IntegerBit\obj\Debug\_10.IntegerBit.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\10. IntegerBit\obj\Debug\_10.IntegerBit.pdb

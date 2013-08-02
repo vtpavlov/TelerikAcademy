@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\07. Fibonacci\bin\Debug\_07.Fibonacci.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\07. Fibonacci\bin\Debug\_07.Fibonacci.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\07. Fibonacci\bin\Debug\_07.Fibonacci.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\07. Fibonacci\obj\Debug\_07.Fibonacci.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\07. Fibonacci\obj\Debug\_07.Fibonacci.pdb

@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\13. ThreeBitsExchange\bin\Debug\_13.ThreeBitsExchange.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\13. ThreeBitsExchange\bin\Debug\_13.ThreeBitsExchange.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\13. ThreeBitsExchange\bin\Debug\_13.ThreeBitsExchange.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\13. ThreeBitsExchange\obj\Debug\13. ThreeBitsExchange.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\13. ThreeBitsExchange\obj\Debug\_13.ThreeBitsExchange.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\13. ThreeBitsExchange\obj\Debug\_13.ThreeBitsExchange.pdb

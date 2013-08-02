@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\08. NumbersInterval\bin\Debug\_08.NumbersInterval.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\08. NumbersInterval\bin\Debug\_08.NumbersInterval.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\08. NumbersInterval\bin\Debug\_08.NumbersInterval.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\08. NumbersInterval\obj\Debug\_08.NumbersInterval.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\08. NumbersInterval\obj\Debug\_08.NumbersInterval.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\08. NumbersInterval\obj\Debug\08. NumbersInterval.csprojResolveAssemblyReference.cache

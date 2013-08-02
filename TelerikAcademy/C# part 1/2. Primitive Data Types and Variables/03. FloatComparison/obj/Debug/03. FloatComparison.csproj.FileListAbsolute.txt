@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\03. FloatComparison\bin\Debug\_03.FloatComparison.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\03. FloatComparison\bin\Debug\_03.FloatComparison.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\03. FloatComparison\bin\Debug\_03.FloatComparison.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\03. FloatComparison\obj\Debug\_03.FloatComparison.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\03. FloatComparison\obj\Debug\_03.FloatComparison.pdb

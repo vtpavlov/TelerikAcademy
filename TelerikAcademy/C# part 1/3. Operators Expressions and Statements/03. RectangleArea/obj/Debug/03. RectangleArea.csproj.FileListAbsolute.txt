@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\03. RectangleArea\bin\Debug\_03.RectangleArea.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\03. RectangleArea\bin\Debug\_03.RectangleArea.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\03. RectangleArea\bin\Debug\_03.RectangleArea.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\03. RectangleArea\obj\Debug\_03.RectangleArea.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\03. RectangleArea\obj\Debug\_03.RectangleArea.pdb

@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\FirstAndLastName\bin\Debug\FirstAndLastName.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\FirstAndLastName\bin\Debug\FirstAndLastName.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\FirstAndLastName\bin\Debug\FirstAndLastName.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\FirstAndLastName\obj\Debug\FirstAndLastName.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\FirstAndLastName\obj\Debug\FirstAndLastName.pdb

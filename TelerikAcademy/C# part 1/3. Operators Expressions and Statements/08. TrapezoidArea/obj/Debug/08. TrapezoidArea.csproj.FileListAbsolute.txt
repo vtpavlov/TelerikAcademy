@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\08. TrapezoidArea\bin\Debug\_08.TrapezoidArea.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\08. TrapezoidArea\bin\Debug\_08.TrapezoidArea.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\08. TrapezoidArea\bin\Debug\_08.TrapezoidArea.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\08. TrapezoidArea\obj\Debug\_08.TrapezoidArea.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\08. TrapezoidArea\obj\Debug\_08.TrapezoidArea.pdb

@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\14. QuickSort\bin\Debug\_14.QuickSort.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\14. QuickSort\bin\Debug\_14.QuickSort.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\14. QuickSort\bin\Debug\_14.QuickSort.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\14. QuickSort\obj\Debug\_14.QuickSort.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\14. QuickSort\obj\Debug\_14.QuickSort.pdb

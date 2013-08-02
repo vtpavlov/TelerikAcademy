@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\04. HexadecimalInteger\bin\Debug\_04.HexadecimalInteger.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\04. HexadecimalInteger\bin\Debug\_04.HexadecimalInteger.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\04. HexadecimalInteger\bin\Debug\_04.HexadecimalInteger.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\04. HexadecimalInteger\obj\Debug\_04.HexadecimalInteger.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\04. HexadecimalInteger\obj\Debug\_04.HexadecimalInteger.pdb

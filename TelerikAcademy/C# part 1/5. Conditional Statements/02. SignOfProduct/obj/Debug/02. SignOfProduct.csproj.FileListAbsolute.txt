@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\02. SignOfProduct\bin\Debug\_02.SignOfProduct.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\02. SignOfProduct\bin\Debug\_02.SignOfProduct.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\02. SignOfProduct\bin\Debug\_02.SignOfProduct.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\02. SignOfProduct\obj\Debug\_02.SignOfProduct.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\02. SignOfProduct\obj\Debug\_02.SignOfProduct.pdb

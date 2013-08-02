@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\CurrentDateAndTime\bin\Debug\CurrentDateAndTime.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\CurrentDateAndTime\obj\Debug\CurrentDateAndTime.pdb

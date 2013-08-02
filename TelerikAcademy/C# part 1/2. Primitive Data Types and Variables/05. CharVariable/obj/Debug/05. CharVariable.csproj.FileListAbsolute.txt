@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\05. CharVariable\bin\Debug\_05.CharVariable.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\05. CharVariable\bin\Debug\_05.CharVariable.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\05. CharVariable\bin\Debug\_05.CharVariable.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\05. CharVariable\obj\Debug\_05.CharVariable.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\05. CharVariable\obj\Debug\_05.CharVariable.pdb

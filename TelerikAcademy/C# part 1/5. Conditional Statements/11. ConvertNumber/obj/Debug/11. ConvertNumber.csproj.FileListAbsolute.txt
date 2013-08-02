@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\11. ConvertNumber\bin\Debug\_11.ConvertNumber.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\11. ConvertNumber\bin\Debug\_11.ConvertNumber.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\11. ConvertNumber\bin\Debug\_11.ConvertNumber.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\11. ConvertNumber\obj\Debug\11. ConvertNumber.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\11. ConvertNumber\obj\Debug\_11.ConvertNumber.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\11. ConvertNumber\obj\Debug\_11.ConvertNumber.pdb

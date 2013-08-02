@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\10. SequenceOfGivenSum\bin\Debug\_10.SequenceOfGivenSum.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\10. SequenceOfGivenSum\bin\Debug\_10.SequenceOfGivenSum.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\10. SequenceOfGivenSum\bin\Debug\_10.SequenceOfGivenSum.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\10. SequenceOfGivenSum\obj\Debug\_10.SequenceOfGivenSum.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\10. SequenceOfGivenSum\obj\Debug\_10.SequenceOfGivenSum.pdb

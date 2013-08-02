@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\04. BinSearch\bin\Debug\_04.BinSearch.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\04. BinSearch\bin\Debug\_04.BinSearch.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\04. BinSearch\bin\Debug\_04.BinSearch.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\04. BinSearch\obj\Debug\_04.BinSearch.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\04. BinSearch\obj\Debug\_04.BinSearch.pdb

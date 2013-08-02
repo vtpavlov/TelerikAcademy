@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\Square\bin\Debug\Square.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\Square\bin\Debug\Square.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\Square\bin\Debug\Square.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\Square\obj\Debug\Square.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\Square\obj\Debug\Square.pdb

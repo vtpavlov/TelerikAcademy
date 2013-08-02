@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\05. ThirdBit\bin\Debug\_05.ThirdBit.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\05. ThirdBit\bin\Debug\_05.ThirdBit.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\05. ThirdBit\bin\Debug\_05.ThirdBit.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\05. ThirdBit\obj\Debug\_05.ThirdBit.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\05. ThirdBit\obj\Debug\_05.ThirdBit.pdb

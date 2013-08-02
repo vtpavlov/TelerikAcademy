@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\07. GreatestOfFive\bin\Debug\_07.GreatestOfFive.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\07. GreatestOfFive\bin\Debug\_07.GreatestOfFive.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\07. GreatestOfFive\bin\Debug\_07.GreatestOfFive.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\07. GreatestOfFive\obj\Debug\_07.GreatestOfFive.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\07. GreatestOfFive\obj\Debug\_07.GreatestOfFive.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\07. GreatestOfFive\obj\Debug\07. GreatestOfFive.csprojResolveAssemblyReference.cache

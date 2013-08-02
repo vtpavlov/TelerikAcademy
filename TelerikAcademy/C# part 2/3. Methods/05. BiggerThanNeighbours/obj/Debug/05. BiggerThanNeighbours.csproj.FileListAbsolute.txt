@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\05. BiggerThanNeighbours\bin\Debug\_05.BiggerThanNeighbours.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\05. BiggerThanNeighbours\bin\Debug\_05.BiggerThanNeighbours.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\05. BiggerThanNeighbours\bin\Debug\_05.BiggerThanNeighbours.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\05. BiggerThanNeighbours\obj\Debug\_05.BiggerThanNeighbours.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\05. BiggerThanNeighbours\obj\Debug\_05.BiggerThanNeighbours.pdb

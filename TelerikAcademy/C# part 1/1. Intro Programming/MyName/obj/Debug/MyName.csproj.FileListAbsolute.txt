@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\MyName\bin\Debug\MyName.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\MyName\bin\Debug\MyName.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\MyName\bin\Debug\MyName.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\MyName\obj\Debug\MyName.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\MyName\obj\Debug\MyName.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\MyName\obj\Debug\MyName.pdb

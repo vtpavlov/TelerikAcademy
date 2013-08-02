@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\11. BitExtraction\bin\Debug\_11.BitExtraction.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\11. BitExtraction\bin\Debug\_11.BitExtraction.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\11. BitExtraction\bin\Debug\_11.BitExtraction.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\11. BitExtraction\obj\Debug\_11.BitExtraction.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\11. BitExtraction\obj\Debug\_11.BitExtraction.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\11. BitExtraction\obj\Debug\11. BitExtraction.csprojResolveAssemblyReference.cache

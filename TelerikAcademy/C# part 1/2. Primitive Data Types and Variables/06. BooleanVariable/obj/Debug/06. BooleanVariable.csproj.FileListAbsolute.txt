@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\06. BooleanVariable\bin\Debug\_06.BooleanVariable.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\06. BooleanVariable\bin\Debug\_06.BooleanVariable.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\06. BooleanVariable\bin\Debug\_06.BooleanVariable.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\06. BooleanVariable\obj\Debug\_06.BooleanVariable.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\06. BooleanVariable\obj\Debug\_06.BooleanVariable.pdb

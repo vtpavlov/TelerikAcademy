@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\03. SequenceOfIntegers\bin\Debug\_03.SequenceOfIntegers.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\03. SequenceOfIntegers\bin\Debug\_03.SequenceOfIntegers.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\03. SequenceOfIntegers\bin\Debug\_03.SequenceOfIntegers.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\03. SequenceOfIntegers\obj\Debug\_03.SequenceOfIntegers.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\03. SequenceOfIntegers\obj\Debug\_03.SequenceOfIntegers.pdb

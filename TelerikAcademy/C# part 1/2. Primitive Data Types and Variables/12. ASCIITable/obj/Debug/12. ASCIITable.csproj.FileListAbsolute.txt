@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\12. ASCIITable\bin\Debug\_12.ASCIITable.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\12. ASCIITable\bin\Debug\_12.ASCIITable.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\12. ASCIITable\bin\Debug\_12.ASCIITable.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\12. ASCIITable\obj\Debug\_12.ASCIITable.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\12. ASCIITable\obj\Debug\_12.ASCIITable.pdb

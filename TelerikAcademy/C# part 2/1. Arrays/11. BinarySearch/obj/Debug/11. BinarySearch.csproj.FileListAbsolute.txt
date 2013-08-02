@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\11. BinarySearch\bin\Debug\_11.BinarySearch.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\11. BinarySearch\bin\Debug\_11.BinarySearch.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\11. BinarySearch\bin\Debug\_11.BinarySearch.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\11. BinarySearch\obj\Debug\11. BinarySearch.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\11. BinarySearch\obj\Debug\_11.BinarySearch.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\11. BinarySearch\obj\Debug\_11.BinarySearch.pdb

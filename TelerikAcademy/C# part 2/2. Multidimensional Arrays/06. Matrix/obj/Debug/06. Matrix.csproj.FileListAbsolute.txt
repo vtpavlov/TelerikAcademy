@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\06. Matrix\bin\Debug\_06.Matrix.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\06. Matrix\bin\Debug\_06.Matrix.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\06. Matrix\bin\Debug\_06.Matrix.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\06. Matrix\obj\Debug\06. Matrix.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\06. Matrix\obj\Debug\_06.Matrix.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\06. Matrix\obj\Debug\_06.Matrix.pdb

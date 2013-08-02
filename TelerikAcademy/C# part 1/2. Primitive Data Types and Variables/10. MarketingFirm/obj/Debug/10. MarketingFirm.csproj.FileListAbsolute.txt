@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\10. MarketingFirm\bin\Debug\_10.MarketingFirm.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\10. MarketingFirm\bin\Debug\_10.MarketingFirm.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\10. MarketingFirm\bin\Debug\_10.MarketingFirm.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\10. MarketingFirm\obj\Debug\_10.MarketingFirm.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\10. MarketingFirm\obj\Debug\_10.MarketingFirm.pdb

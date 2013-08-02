@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\20. Variations\bin\Debug\_20.Variations.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\20. Variations\bin\Debug\_20.Variations.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\20. Variations\bin\Debug\_20.Variations.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\20. Variations\obj\Debug\20. Variations.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\20. Variations\obj\Debug\_20.Variations.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\20. Variations\obj\Debug\_20.Variations.pdb

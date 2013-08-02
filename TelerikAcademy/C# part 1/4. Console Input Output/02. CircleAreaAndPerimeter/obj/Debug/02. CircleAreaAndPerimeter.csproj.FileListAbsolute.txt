@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\02. CircleAreaAndPerimeter\bin\Debug\_02.CircleAreaAndPerimeter.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\02. CircleAreaAndPerimeter\bin\Debug\_02.CircleAreaAndPerimeter.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\02. CircleAreaAndPerimeter\bin\Debug\_02.CircleAreaAndPerimeter.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\02. CircleAreaAndPerimeter\obj\Debug\_02.CircleAreaAndPerimeter.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\02. CircleAreaAndPerimeter\obj\Debug\_02.CircleAreaAndPerimeter.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\02. CircleAreaAndPerimeter\obj\Debug\02. CircleAreaAndPerimeter.csprojResolveAssemblyReference.cache

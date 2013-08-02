@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\07. DigitReverse\bin\Debug\_07.DigitReverse.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\07. DigitReverse\bin\Debug\_07.DigitReverse.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\07. DigitReverse\bin\Debug\_07.DigitReverse.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\07. DigitReverse\obj\Debug\_07.DigitReverse.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\07. DigitReverse\obj\Debug\_07.DigitReverse.pdb

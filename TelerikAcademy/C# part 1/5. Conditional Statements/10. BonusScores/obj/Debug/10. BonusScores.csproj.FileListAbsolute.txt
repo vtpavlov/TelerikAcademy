@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\10. BonusScores\bin\Debug\_10.BonusScores.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\10. BonusScores\bin\Debug\_10.BonusScores.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\10. BonusScores\bin\Debug\_10.BonusScores.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\10. BonusScores\obj\Debug\_10.BonusScores.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\10. BonusScores\obj\Debug\_10.BonusScores.pdb

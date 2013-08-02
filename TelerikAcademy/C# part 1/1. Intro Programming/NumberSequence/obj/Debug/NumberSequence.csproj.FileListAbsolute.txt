@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\NumberSequence\bin\Debug\NumberSequence.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\NumberSequence\bin\Debug\NumberSequence.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\NumberSequence\bin\Debug\NumberSequence.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\NumberSequence\obj\Debug\NumberSequence.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\NumberSequence\obj\Debug\NumberSequence.pdb

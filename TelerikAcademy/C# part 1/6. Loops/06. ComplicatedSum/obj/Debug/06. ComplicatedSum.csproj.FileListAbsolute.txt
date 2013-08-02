@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\06. ComplicatedSum\bin\Debug\_06.ComplicatedSum.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\06. ComplicatedSum\bin\Debug\_06.ComplicatedSum.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\06. ComplicatedSum\bin\Debug\_06.ComplicatedSum.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\06. ComplicatedSum\obj\Debug\_06.ComplicatedSum.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\06. ComplicatedSum\obj\Debug\_06.ComplicatedSum.pdb

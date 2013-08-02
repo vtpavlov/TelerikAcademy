@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\06. MaximalArraySum\bin\Debug\_06.MaximalArraySum.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\06. MaximalArraySum\bin\Debug\_06.MaximalArraySum.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\06. MaximalArraySum\bin\Debug\_06.MaximalArraySum.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\06. MaximalArraySum\obj\Debug\06. MaximalArraySum.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\06. MaximalArraySum\obj\Debug\_06.MaximalArraySum.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\06. MaximalArraySum\obj\Debug\_06.MaximalArraySum.pdb

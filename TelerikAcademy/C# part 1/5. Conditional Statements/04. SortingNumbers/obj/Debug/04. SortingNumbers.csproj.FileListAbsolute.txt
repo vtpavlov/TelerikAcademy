@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\04. SortingNumbers\bin\Debug\_04.SortingNumbers.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\04. SortingNumbers\bin\Debug\_04.SortingNumbers.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\04. SortingNumbers\bin\Debug\_04.SortingNumbers.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\04. SortingNumbers\obj\Debug\_04.SortingNumbers.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\04. SortingNumbers\obj\Debug\_04.SortingNumbers.pdb

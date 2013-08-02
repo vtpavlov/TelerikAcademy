@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\04. NumberCount\bin\Debug\_04.NumberCount.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\04. NumberCount\bin\Debug\_04.NumberCount.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\04. NumberCount\bin\Debug\_04.NumberCount.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\04. NumberCount\obj\Debug\_04.NumberCount.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\04. NumberCount\obj\Debug\_04.NumberCount.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\04. NumberCount\obj\Debug\04. NumberCount.csprojResolveAssemblyReference.cache

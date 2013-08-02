@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\04. Factorial\bin\Debug\_04.Factorial.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\04. Factorial\bin\Debug\_04.Factorial.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\04. Factorial\bin\Debug\_04.Factorial.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\04. Factorial\obj\Debug\_04.Factorial.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\04. Factorial\obj\Debug\_04.Factorial.pdb

@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\PrintingNumbers\bin\Debug\PrintingNumbers.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\PrintingNumbers\bin\Debug\PrintingNumbers.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\PrintingNumbers\bin\Debug\PrintingNumbers.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\PrintingNumbers\obj\Debug\PrintingNumbers.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\1. Intro Programming\PrintingNumbers\obj\Debug\PrintingNumbers.pdb

@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\08. QuotedStrings\bin\Debug\_08.QuotedStrings.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\08. QuotedStrings\bin\Debug\_08.QuotedStrings.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\08. QuotedStrings\bin\Debug\_08.QuotedStrings.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\08. QuotedStrings\obj\Debug\_08.QuotedStrings.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\08. QuotedStrings\obj\Debug\_08.QuotedStrings.pdb

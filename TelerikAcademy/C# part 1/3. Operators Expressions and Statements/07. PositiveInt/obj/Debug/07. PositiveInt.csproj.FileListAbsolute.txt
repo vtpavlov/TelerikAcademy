@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\07. PositiveInt\bin\Debug\_07.PositiveInt.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\07. PositiveInt\bin\Debug\_07.PositiveInt.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\07. PositiveInt\bin\Debug\_07.PositiveInt.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\07. PositiveInt\obj\Debug\_07.PositiveInt.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\07. PositiveInt\obj\Debug\_07.PositiveInt.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\07. PositiveInt\obj\Debug\07. PositiveInt.csprojResolveAssemblyReference.cache

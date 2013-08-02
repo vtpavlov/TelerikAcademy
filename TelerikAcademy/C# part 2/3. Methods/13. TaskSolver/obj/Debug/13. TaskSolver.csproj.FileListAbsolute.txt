@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\13. TaskSolver\bin\Debug\_13.TaskSolver.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\13. TaskSolver\obj\Debug\13. TaskSolver.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\13. TaskSolver\bin\Debug\_13.TaskSolver.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\13. TaskSolver\bin\Debug\_13.TaskSolver.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\13. TaskSolver\obj\Debug\_13.TaskSolver.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\13. TaskSolver\obj\Debug\_13.TaskSolver.pdb

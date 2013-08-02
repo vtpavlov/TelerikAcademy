@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\08. UserChoiceInput\bin\Debug\_08.UserChoiceInput.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\08. UserChoiceInput\bin\Debug\_08.UserChoiceInput.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\08. UserChoiceInput\bin\Debug\_08.UserChoiceInput.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\08. UserChoiceInput\obj\Debug\_08.UserChoiceInput.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\5. Conditional Statements\08. UserChoiceInput\obj\Debug\_08.UserChoiceInput.pdb

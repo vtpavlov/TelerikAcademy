@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\08. EuclideanAlgorithm\bin\Debug\_08.EuclideanAlgorithm.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\08. EuclideanAlgorithm\bin\Debug\_08.EuclideanAlgorithm.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\08. EuclideanAlgorithm\bin\Debug\_08.EuclideanAlgorithm.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\08. EuclideanAlgorithm\obj\Debug\_08.EuclideanAlgorithm.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\08. EuclideanAlgorithm\obj\Debug\_08.EuclideanAlgorithm.pdb

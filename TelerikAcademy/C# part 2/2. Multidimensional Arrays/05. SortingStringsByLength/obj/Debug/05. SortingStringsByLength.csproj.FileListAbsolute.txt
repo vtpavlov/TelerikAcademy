@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\05. SortingStringsByLength\bin\Debug\_05.SortingStringsByLength.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\05. SortingStringsByLength\bin\Debug\_05.SortingStringsByLength.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\05. SortingStringsByLength\bin\Debug\_05.SortingStringsByLength.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\05. SortingStringsByLength\obj\Debug\_05.SortingStringsByLength.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\05. SortingStringsByLength\obj\Debug\_05.SortingStringsByLength.pdb

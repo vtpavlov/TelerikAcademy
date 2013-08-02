@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\10. AccurateSum\bin\Debug\_10.AccurateSum.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\10. AccurateSum\bin\Debug\_10.AccurateSum.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\10. AccurateSum\bin\Debug\_10.AccurateSum.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\10. AccurateSum\obj\Debug\_10.AccurateSum.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\10. AccurateSum\obj\Debug\_10.AccurateSum.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\10. AccurateSum\obj\Debug\10. AccurateSum.csprojResolveAssemblyReference.cache

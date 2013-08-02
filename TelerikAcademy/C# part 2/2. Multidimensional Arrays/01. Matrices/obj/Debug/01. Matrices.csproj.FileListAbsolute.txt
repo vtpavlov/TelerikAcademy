@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\01. Matrices\bin\Debug\_01.Matrices.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\01. Matrices\bin\Debug\_01.Matrices.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\01. Matrices\bin\Debug\_01.Matrices.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\01. Matrices\obj\Debug\01. Matrices.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\01. Matrices\obj\Debug\_01.Matrices.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\01. Matrices\obj\Debug\_01.Matrices.pdb

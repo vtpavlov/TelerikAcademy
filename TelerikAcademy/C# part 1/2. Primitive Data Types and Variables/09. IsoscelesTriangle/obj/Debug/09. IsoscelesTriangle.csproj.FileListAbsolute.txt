@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\09. IsoscelesTriangle\bin\Debug\_09.IsoscelesTriangle.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\09. IsoscelesTriangle\bin\Debug\_09.IsoscelesTriangle.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\09. IsoscelesTriangle\bin\Debug\_09.IsoscelesTriangle.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\09. IsoscelesTriangle\obj\Debug\_09.IsoscelesTriangle.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\09. IsoscelesTriangle\obj\Debug\_09.IsoscelesTriangle.pdb

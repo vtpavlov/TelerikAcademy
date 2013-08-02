@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\03. CompanyInfo\bin\Debug\_03.CompanyInfo.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\03. CompanyInfo\bin\Debug\_03.CompanyInfo.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\03. CompanyInfo\bin\Debug\_03.CompanyInfo.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\03. CompanyInfo\obj\Debug\_03.CompanyInfo.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\03. CompanyInfo\obj\Debug\_03.CompanyInfo.pdb

@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\10. NFactorial\bin\Debug\_10.NFactorial.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\10. NFactorial\bin\Debug\_10.NFactorial.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\10. NFactorial\bin\Debug\_10.NFactorial.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\10. NFactorial\obj\Debug\10. NFactorial.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\10. NFactorial\obj\Debug\_10.NFactorial.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\10. NFactorial\obj\Debug\_10.NFactorial.pdb

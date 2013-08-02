@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\02. NumbersNotDivisible\bin\Debug\_02.NumbersNotDivisible.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\02. NumbersNotDivisible\bin\Debug\_02.NumbersNotDivisible.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\02. NumbersNotDivisible\bin\Debug\_02.NumbersNotDivisible.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\02. NumbersNotDivisible\obj\Debug\_02.NumbersNotDivisible.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\02. NumbersNotDivisible\obj\Debug\_02.NumbersNotDivisible.pdb

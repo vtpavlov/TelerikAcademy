@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\02. DevideInteger\bin\Debug\_02.DevideInteger.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\02. DevideInteger\bin\Debug\_02.DevideInteger.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\02. DevideInteger\bin\Debug\_02.DevideInteger.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\02. DevideInteger\obj\Debug\_02.DevideInteger.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\02. DevideInteger\obj\Debug\_02.DevideInteger.pdb

@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\07. SelectionSort\bin\Debug\_07.SelectionSort.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\07. SelectionSort\bin\Debug\_07.SelectionSort.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\07. SelectionSort\bin\Debug\_07.SelectionSort.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\07. SelectionSort\obj\Debug\_07.SelectionSort.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\07. SelectionSort\obj\Debug\_07.SelectionSort.pdb

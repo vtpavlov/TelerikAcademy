@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\03. LastDigit\bin\Debug\_03.LastDigit.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\03. LastDigit\bin\Debug\_03.LastDigit.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\03. LastDigit\bin\Debug\_03.LastDigit.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\03. LastDigit\obj\Debug\_03.LastDigit.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\03. LastDigit\obj\Debug\_03.LastDigit.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\03. LastDigit\obj\Debug\03. LastDigit.csprojResolveAssemblyReference.cache

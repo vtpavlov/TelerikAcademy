@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\01. NumbersToN\bin\Debug\_01.NumbersToN.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\01. NumbersToN\bin\Debug\_01.NumbersToN.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\01. NumbersToN\bin\Debug\_01.NumbersToN.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\01. NumbersToN\obj\Debug\01. NumbersToN.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\01. NumbersToN\obj\Debug\_01.NumbersToN.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\01. NumbersToN\obj\Debug\_01.NumbersToN.pdb

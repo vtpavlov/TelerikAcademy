@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\04. ThirdDigitCheck\bin\Debug\_04.ThirdDigitCheck.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\04. ThirdDigitCheck\bin\Debug\_04.ThirdDigitCheck.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\04. ThirdDigitCheck\bin\Debug\_04.ThirdDigitCheck.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\04. ThirdDigitCheck\obj\Debug\_04.ThirdDigitCheck.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\04. ThirdDigitCheck\obj\Debug\_04.ThirdDigitCheck.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\04. ThirdDigitCheck\obj\Debug\04. ThirdDigitCheck.csprojResolveAssemblyReference.cache

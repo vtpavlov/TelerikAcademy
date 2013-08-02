@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\07. LargestArea\bin\Debug\_07.LargestArea.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\07. LargestArea\bin\Debug\_07.LargestArea.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\07. LargestArea\bin\Debug\_07.LargestArea.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\07. LargestArea\obj\Debug\_07.LargestArea.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\07. LargestArea\obj\Debug\_07.LargestArea.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\2. Multidimensional Arrays\07. LargestArea\obj\Debug\07. LargestArea.csprojResolveAssemblyReference.cache

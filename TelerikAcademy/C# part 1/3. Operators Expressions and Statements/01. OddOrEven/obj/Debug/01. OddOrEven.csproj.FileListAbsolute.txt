@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\01. OddOrEven\bin\Debug\_01.OddOrEven.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\01. OddOrEven\bin\Debug\_01.OddOrEven.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\01. OddOrEven\bin\Debug\_01.OddOrEven.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\01. OddOrEven\obj\Debug\01. OddOrEven.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\01. OddOrEven\obj\Debug\_01.OddOrEven.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\3. Operators Expressions and Statements\01. OddOrEven\obj\Debug\_01.OddOrEven.pdb

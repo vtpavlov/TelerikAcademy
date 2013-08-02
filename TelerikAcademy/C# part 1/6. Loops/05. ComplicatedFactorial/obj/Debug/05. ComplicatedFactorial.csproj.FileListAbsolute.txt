@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\05. ComplicatedFactorial\bin\Debug\_05.ComplicatedFactorial.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\05. ComplicatedFactorial\bin\Debug\_05.ComplicatedFactorial.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\05. ComplicatedFactorial\bin\Debug\_05.ComplicatedFactorial.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\05. ComplicatedFactorial\obj\Debug\_05.ComplicatedFactorial.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\6. Loops\05. ComplicatedFactorial\obj\Debug\_05.ComplicatedFactorial.pdb

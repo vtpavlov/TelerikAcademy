@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\21. Combinations\bin\Debug\_21.Combinations.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\21. Combinations\bin\Debug\_21.Combinations.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\21. Combinations\bin\Debug\_21.Combinations.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\21. Combinations\obj\Debug\_21.Combinations.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\21. Combinations\obj\Debug\_21.Combinations.pdb

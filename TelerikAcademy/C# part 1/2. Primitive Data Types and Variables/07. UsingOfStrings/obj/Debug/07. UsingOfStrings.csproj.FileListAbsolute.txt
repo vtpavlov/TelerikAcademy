@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\07. UsingOfStrings\bin\Debug\_07.UsingOfStrings.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\07. UsingOfStrings\bin\Debug\_07.UsingOfStrings.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\07. UsingOfStrings\bin\Debug\_07.UsingOfStrings.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\07. UsingOfStrings\obj\Debug\_07.UsingOfStrings.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\2. Primitive Data Types and Variables\07. UsingOfStrings\obj\Debug\_07.UsingOfStrings.pdb

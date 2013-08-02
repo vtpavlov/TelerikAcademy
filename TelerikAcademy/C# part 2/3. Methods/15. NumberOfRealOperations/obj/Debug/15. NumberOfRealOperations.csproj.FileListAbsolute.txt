@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\15. NumberOfRealOperations\bin\Debug\_15.NumberOfRealOperations.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\15. NumberOfRealOperations\bin\Debug\_15.NumberOfRealOperations.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\15. NumberOfRealOperations\bin\Debug\_15.NumberOfRealOperations.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\15. NumberOfRealOperations\obj\Debug\_15.NumberOfRealOperations.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\3. Methods\15. NumberOfRealOperations\obj\Debug\_15.NumberOfRealOperations.pdb

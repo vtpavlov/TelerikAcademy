@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\09. Fibonacci\bin\Debug\_09.Fibonacci.exe.config
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\09. Fibonacci\bin\Debug\_09.Fibonacci.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\09. Fibonacci\bin\Debug\_09.Fibonacci.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\09. Fibonacci\obj\Debug\_09.Fibonacci.exe
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\09. Fibonacci\obj\Debug\_09.Fibonacci.pdb
+D:\трети курс\софтуерна академия\C# part 1\Homeworks\4. Console Input Output\09. Fibonacci\obj\Debug\09. Fibonacci.csprojResolveAssemblyReference.cache

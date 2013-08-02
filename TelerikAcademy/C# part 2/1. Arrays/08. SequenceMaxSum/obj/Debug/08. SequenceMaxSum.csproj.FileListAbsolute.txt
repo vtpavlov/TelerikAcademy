@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\08. SequenceMaxSum\bin\Debug\_08.SequenceMaxSum.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\08. SequenceMaxSum\bin\Debug\_08.SequenceMaxSum.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\08. SequenceMaxSum\bin\Debug\_08.SequenceMaxSum.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\08. SequenceMaxSum\obj\Debug\08. SequenceMaxSum.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\08. SequenceMaxSum\obj\Debug\_08.SequenceMaxSum.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\1. Arrays\08. SequenceMaxSum\obj\Debug\_08.SequenceMaxSum.pdb
