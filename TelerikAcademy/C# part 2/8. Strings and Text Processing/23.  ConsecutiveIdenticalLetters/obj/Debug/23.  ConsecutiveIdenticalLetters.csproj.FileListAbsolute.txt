@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\23.  ConsecutiveIdenticalLetters\bin\Debug\_23.ConsecutiveIdenticalLetters.exe.config
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\23.  ConsecutiveIdenticalLetters\bin\Debug\_23.ConsecutiveIdenticalLetters.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\23.  ConsecutiveIdenticalLetters\bin\Debug\_23.ConsecutiveIdenticalLetters.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\23.  ConsecutiveIdenticalLetters\obj\Debug\_23.ConsecutiveIdenticalLetters.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\23.  ConsecutiveIdenticalLetters\obj\Debug\_23.ConsecutiveIdenticalLetters.pdb

@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\10. ExtractingDataFromXML\bin\Debug\_10.ExtractingDataFromXML.exe.config
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\10. ExtractingDataFromXML\bin\Debug\_10.ExtractingDataFromXML.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\10. ExtractingDataFromXML\bin\Debug\_10.ExtractingDataFromXML.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\10. ExtractingDataFromXML\obj\Debug\_10.ExtractingDataFromXML.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\10. ExtractingDataFromXML\obj\Debug\_10.ExtractingDataFromXML.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\10. ExtractingDataFromXML\obj\Debug\10. ExtractingDataFromXML.csprojResolveAssemblyReference.cache

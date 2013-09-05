@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\06. SortingStringsInFile\bin\Debug\_06.SortingStringsInFile.exe.config
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\06. SortingStringsInFile\bin\Debug\_06.SortingStringsInFile.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\06. SortingStringsInFile\bin\Debug\_06.SortingStringsInFile.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\06. SortingStringsInFile\obj\Debug\06. SortingStringsInFile.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\06. SortingStringsInFile\obj\Debug\_06.SortingStringsInFile.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\06. SortingStringsInFile\obj\Debug\_06.SortingStringsInFile.pdb

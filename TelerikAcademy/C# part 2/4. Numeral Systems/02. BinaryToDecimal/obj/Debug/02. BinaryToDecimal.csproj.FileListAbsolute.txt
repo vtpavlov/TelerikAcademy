@@ -1,0 +1,8 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\4. Numeral Systems\02. BinaryToDecimal\bin\Debug\_02.BinaryToDecimal.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\4. Numeral Systems\02. BinaryToDecimal\bin\Debug\_02.BinaryToDecimal.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\4. Numeral Systems\02. BinaryToDecimal\bin\Debug\_02.BinaryToDecimal.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\4. Numeral Systems\02. BinaryToDecimal\obj\Debug\_02.BinaryToDecimal.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\4. Numeral Systems\02. BinaryToDecimal\obj\Debug\_02.BinaryToDecimal.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\4. Numeral Systems\02. BinaryToDecimal\bin\Debug\_02.BinaryToDecimal.exe.config
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\4. Numeral Systems\02. BinaryToDecimal\obj\Debug\_02.BinaryToDecimal.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\4. Numeral Systems\02. BinaryToDecimal\obj\Debug\_02.BinaryToDecimal.pdb

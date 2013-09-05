@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\19. DateExtraction\bin\Debug\_19.DateExtraction.exe.config
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\19. DateExtraction\bin\Debug\_19.DateExtraction.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\19. DateExtraction\bin\Debug\_19.DateExtraction.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\19. DateExtraction\obj\Debug\_19.DateExtraction.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\19. DateExtraction\obj\Debug\_19.DateExtraction.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\19. DateExtraction\obj\Debug\19. DateExtraction.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\4. Numeral Systems\01. DecimalToBinary\bin\Debug\_01.DecimalToBinary.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\4. Numeral Systems\01. DecimalToBinary\bin\Debug\_01.DecimalToBinary.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\4. Numeral Systems\01. DecimalToBinary\bin\Debug\_01.DecimalToBinary.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\4. Numeral Systems\01. DecimalToBinary\obj\Debug\01. DecimalToBinary.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\4. Numeral Systems\01. DecimalToBinary\obj\Debug\_01.DecimalToBinary.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\4. Numeral Systems\01. DecimalToBinary\obj\Debug\_01.DecimalToBinary.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\4. Numeral Systems\01. DecimalToBinary\bin\Debug\_01.DecimalToBinary.exe.config
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\4. Numeral Systems\01. DecimalToBinary\obj\Debug\_01.DecimalToBinary.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\4. Numeral Systems\01. DecimalToBinary\obj\Debug\_01.DecimalToBinary.pdb

@@ -1,0 +1,4 @@
+tesst  Hello this is a . Please remove from this file all words that begin with . 
+for example:
+  
+     

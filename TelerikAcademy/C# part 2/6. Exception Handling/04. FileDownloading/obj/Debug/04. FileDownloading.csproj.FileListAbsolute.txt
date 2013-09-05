@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\6. Exception Handling\04. FileDownloading\bin\Debug\_04.FileDownloading.exe.config
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\6. Exception Handling\04. FileDownloading\bin\Debug\_04.FileDownloading.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\6. Exception Handling\04. FileDownloading\bin\Debug\_04.FileDownloading.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\6. Exception Handling\04. FileDownloading\obj\Debug\04. FileDownloading.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\6. Exception Handling\04. FileDownloading\obj\Debug\_04.FileDownloading.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\6. Exception Handling\04. FileDownloading\obj\Debug\_04.FileDownloading.pdb

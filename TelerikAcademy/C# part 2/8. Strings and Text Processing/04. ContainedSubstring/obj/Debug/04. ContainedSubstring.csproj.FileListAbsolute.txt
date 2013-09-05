@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\04. ContainedSubstring\bin\Debug\_04.ContainedSubstring.exe.config
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\04. ContainedSubstring\bin\Debug\_04.ContainedSubstring.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\04. ContainedSubstring\bin\Debug\_04.ContainedSubstring.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\04. ContainedSubstring\obj\Debug\_04.ContainedSubstring.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\04. ContainedSubstring\obj\Debug\_04.ContainedSubstring.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\04. ContainedSubstring\obj\Debug\04. ContainedSubstring.csprojResolveAssemblyReference.cache

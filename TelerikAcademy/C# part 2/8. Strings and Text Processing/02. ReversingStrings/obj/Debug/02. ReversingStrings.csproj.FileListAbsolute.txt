@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\02. ReversingStrings\bin\Debug\_02.ReversingStrings.exe.config
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\02. ReversingStrings\bin\Debug\_02.ReversingStrings.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\02. ReversingStrings\bin\Debug\_02.ReversingStrings.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\02. ReversingStrings\obj\Debug\02. ReversingStrings.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\02. ReversingStrings\obj\Debug\_02.ReversingStrings.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\02. ReversingStrings\obj\Debug\_02.ReversingStrings.pdb

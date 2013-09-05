@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\07. EncodingDecoding\bin\Debug\_07.EncodingDecoding.exe.config
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\07. EncodingDecoding\bin\Debug\_07.EncodingDecoding.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\07. EncodingDecoding\bin\Debug\_07.EncodingDecoding.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\07. EncodingDecoding\obj\Debug\_07.EncodingDecoding.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\07. EncodingDecoding\obj\Debug\_07.EncodingDecoding.pdb

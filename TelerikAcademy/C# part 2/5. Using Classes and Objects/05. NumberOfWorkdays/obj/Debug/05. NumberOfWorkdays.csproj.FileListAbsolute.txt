@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\5. Using Classes and Objects\05. NumberOfWorkdays\bin\Debug\_05.NumberOfWorkdays.exe.config
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\5. Using Classes and Objects\05. NumberOfWorkdays\bin\Debug\_05.NumberOfWorkdays.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\5. Using Classes and Objects\05. NumberOfWorkdays\bin\Debug\_05.NumberOfWorkdays.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\5. Using Classes and Objects\05. NumberOfWorkdays\obj\Debug\05. NumberOfWorkdays.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\5. Using Classes and Objects\05. NumberOfWorkdays\obj\Debug\_05.NumberOfWorkdays.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\5. Using Classes and Objects\05. NumberOfWorkdays\obj\Debug\_05.NumberOfWorkdays.pdb

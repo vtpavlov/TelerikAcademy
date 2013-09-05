@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\11. RemoveWordsWithPrefix\bin\Debug\_11.RemoveWordsWithPrefix.exe.config
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\11. RemoveWordsWithPrefix\bin\Debug\_11.RemoveWordsWithPrefix.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\11. RemoveWordsWithPrefix\bin\Debug\_11.RemoveWordsWithPrefix.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\11. RemoveWordsWithPrefix\obj\Debug\_11.RemoveWordsWithPrefix.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\11. RemoveWordsWithPrefix\obj\Debug\_11.RemoveWordsWithPrefix.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\11. RemoveWordsWithPrefix\obj\Debug\11. RemoveWordsWithPrefix.csprojResolveAssemblyReference.cache

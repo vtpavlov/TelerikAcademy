@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\6. Exception Handling\02. IntegerInRange\bin\Debug\_02.IntegerInRange.exe.config
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\6. Exception Handling\02. IntegerInRange\bin\Debug\_02.IntegerInRange.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\6. Exception Handling\02. IntegerInRange\bin\Debug\_02.IntegerInRange.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\6. Exception Handling\02. IntegerInRange\obj\Debug\_02.IntegerInRange.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\6. Exception Handling\02. IntegerInRange\obj\Debug\_02.IntegerInRange.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\6. Exception Handling\02. IntegerInRange\obj\Debug\02. IntegerInRange.csprojResolveAssemblyReference.cache

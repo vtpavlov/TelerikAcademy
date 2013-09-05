@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\4. Numeral Systems\07. AnyNumeralSystem\bin\Debug\_07.AnyNumeralSystem.exe.config
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\4. Numeral Systems\07. AnyNumeralSystem\bin\Debug\_07.AnyNumeralSystem.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\4. Numeral Systems\07. AnyNumeralSystem\bin\Debug\_07.AnyNumeralSystem.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\4. Numeral Systems\07. AnyNumeralSystem\obj\Debug\07. AnyNumeralSystem.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\4. Numeral Systems\07. AnyNumeralSystem\obj\Debug\_07.AnyNumeralSystem.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\4. Numeral Systems\07. AnyNumeralSystem\obj\Debug\_07.AnyNumeralSystem.pdb

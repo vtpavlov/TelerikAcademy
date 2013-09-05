@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\05. Upcasing\bin\Debug\_05.Upcasing.exe.config
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\05. Upcasing\bin\Debug\_05.Upcasing.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\05. Upcasing\bin\Debug\_05.Upcasing.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\05. Upcasing\obj\Debug\_05.Upcasing.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\05. Upcasing\obj\Debug\_05.Upcasing.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\05. Upcasing\obj\Debug\05. Upcasing.csprojResolveAssemblyReference.cache

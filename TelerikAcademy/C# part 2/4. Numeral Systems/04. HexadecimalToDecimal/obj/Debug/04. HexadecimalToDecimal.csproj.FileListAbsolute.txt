@@ -1,0 +1,11 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\4. Numeral Systems\04. HexadecimalToDecimal\bin\Debug\_04.HexadecimalToDecimal.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\4. Numeral Systems\04. HexadecimalToDecimal\bin\Debug\_04.HexadecimalToDecimal.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\4. Numeral Systems\04. HexadecimalToDecimal\bin\Debug\_04.HexadecimalToDecimal.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\4. Numeral Systems\04. HexadecimalToDecimal\obj\Debug\_04.HexadecimalToDecimal.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\4. Numeral Systems\04. HexadecimalToDecimal\obj\Debug\_04.HexadecimalToDecimal.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\4. Numeral Systems\04. HexadecimalToDecimal\bin\Debug\_04.HexadecimalToDecimal.exe.config
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\4. Numeral Systems\04. HexadecimalToDecimal\obj\Debug\_04.HexadecimalToDecimal.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\4. Numeral Systems\04. HexadecimalToDecimal\obj\Debug\_04.HexadecimalToDecimal.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\4. Numeral Systems\04. HexadecimalToDecimal\bin\Debug\_04.HexadecimalToDecimal.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\4. Numeral Systems\04. HexadecimalToDecimal\bin\Debug\_04.HexadecimalToDecimal.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\4. Numeral Systems\04. HexadecimalToDecimal\obj\Debug\04. HexadecimalToDecimal.csprojResolveAssemblyReference.cache

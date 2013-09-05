@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\08. ContainingInSentence\bin\Debug\_08.ContainingInSentence.exe.config
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\08. ContainingInSentence\bin\Debug\_08.ContainingInSentence.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\08. ContainingInSentence\bin\Debug\_08.ContainingInSentence.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\08. ContainingInSentence\obj\Debug\_08.ContainingInSentence.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\08. ContainingInSentence\obj\Debug\_08.ContainingInSentence.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\08. ContainingInSentence\obj\Debug\08. ContainingInSentence.csprojResolveAssemblyReference.cache

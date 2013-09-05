@@ -1,0 +1,12 @@
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\4. Numeral Systems\05. HexadecimalToBinary\bin\Debug\_05.HexadecimalToBinary.exe.config
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\4. Numeral Systems\05. HexadecimalToBinary\bin\Debug\_05.HexadecimalToBinary.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\4. Numeral Systems\05. HexadecimalToBinary\bin\Debug\_05.HexadecimalToBinary.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\4. Numeral Systems\05. HexadecimalToBinary\obj\Debug\_05.HexadecimalToBinary.exe
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\4. Numeral Systems\05. HexadecimalToBinary\obj\Debug\_05.HexadecimalToBinary.pdb
+D:\трети курс\софтуерна академия\C# part 2\Homeworks\4. Numeral Systems\05. HexadecimalToBinary\obj\Debug\05. HexadecimalToBinary.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\4. Numeral Systems\05. HexadecimalToBinary\bin\Debug\_05.HexadecimalToBinary.exe.config
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\4. Numeral Systems\05. HexadecimalToBinary\obj\Debug\_05.HexadecimalToBinary.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\4. Numeral Systems\05. HexadecimalToBinary\obj\Debug\_05.HexadecimalToBinary.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\4. Numeral Systems\05. HexadecimalToBinary\bin\Debug\_05.HexadecimalToBinary.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\4. Numeral Systems\05. HexadecimalToBinary\bin\Debug\_05.HexadecimalToBinary.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\4. Numeral Systems\05. HexadecimalToBinary\obj\Debug\05. HexadecimalToBinary.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\24. AlphabeticalOrder\bin\Debug\_24.AlphabeticalOrder.exe.config
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\24. AlphabeticalOrder\bin\Debug\_24.AlphabeticalOrder.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\24. AlphabeticalOrder\bin\Debug\_24.AlphabeticalOrder.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\24. AlphabeticalOrder\obj\Debug\_24.AlphabeticalOrder.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\24. AlphabeticalOrder\obj\Debug\_24.AlphabeticalOrder.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\24. AlphabeticalOrder\obj\Debug\24. AlphabeticalOrder.csprojResolveAssemblyReference.cache

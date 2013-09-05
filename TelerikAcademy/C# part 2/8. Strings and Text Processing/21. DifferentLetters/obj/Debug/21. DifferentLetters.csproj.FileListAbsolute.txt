@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\21. DifferentLetters\bin\Debug\_21.DifferentLetters.exe.config
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\21. DifferentLetters\bin\Debug\_21.DifferentLetters.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\21. DifferentLetters\bin\Debug\_21.DifferentLetters.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\21. DifferentLetters\obj\Debug\_21.DifferentLetters.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\21. DifferentLetters\obj\Debug\_21.DifferentLetters.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\21. DifferentLetters\obj\Debug\21. DifferentLetters.csprojResolveAssemblyReference.cache

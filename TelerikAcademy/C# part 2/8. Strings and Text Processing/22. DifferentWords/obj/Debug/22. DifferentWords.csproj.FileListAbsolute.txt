@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\22. DifferentWords\bin\Debug\_22.DifferentWords.exe.config
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\22. DifferentWords\bin\Debug\_22.DifferentWords.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\22. DifferentWords\bin\Debug\_22.DifferentWords.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\22. DifferentWords\obj\Debug\22. DifferentWords.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\22. DifferentWords\obj\Debug\_22.DifferentWords.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\22. DifferentWords\obj\Debug\_22.DifferentWords.pdb

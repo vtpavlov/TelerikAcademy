@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\04. FileCompare\bin\Debug\_04.FileCompare.exe.config
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\04. FileCompare\bin\Debug\_04.FileCompare.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\04. FileCompare\bin\Debug\_04.FileCompare.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\04. FileCompare\obj\Debug\04. FileCompare.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\04. FileCompare\obj\Debug\_04.FileCompare.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\04. FileCompare\obj\Debug\_04.FileCompare.pdb

@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\25. TitleExtraction\bin\Debug\_25.TitleExtraction.exe.config
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\25. TitleExtraction\bin\Debug\_25.TitleExtraction.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\25. TitleExtraction\bin\Debug\_25.TitleExtraction.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\25. TitleExtraction\obj\Debug\25. TitleExtraction.csprojResolveAssemblyReference.cache
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\25. TitleExtraction\obj\Debug\_25.TitleExtraction.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\25. TitleExtraction\obj\Debug\_25.TitleExtraction.pdb

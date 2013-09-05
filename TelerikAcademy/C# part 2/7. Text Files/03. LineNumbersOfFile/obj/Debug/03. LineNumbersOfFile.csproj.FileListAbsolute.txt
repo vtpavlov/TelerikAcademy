@@ -1,0 +1,5 @@
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\03. LineNumbersOfFile\bin\Debug\_03.LineNumbersOfFile.exe.config
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\03. LineNumbersOfFile\bin\Debug\_03.LineNumbersOfFile.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\03. LineNumbersOfFile\bin\Debug\_03.LineNumbersOfFile.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\03. LineNumbersOfFile\obj\Debug\_03.LineNumbersOfFile.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\03. LineNumbersOfFile\obj\Debug\_03.LineNumbersOfFile.pdb

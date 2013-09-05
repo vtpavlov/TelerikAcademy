@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\03. BracketsInExpression\bin\Debug\_03.BracketsInExpression.exe.config
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\03. BracketsInExpression\bin\Debug\_03.BracketsInExpression.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\03. BracketsInExpression\bin\Debug\_03.BracketsInExpression.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\03. BracketsInExpression\obj\Debug\_03.BracketsInExpression.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\03. BracketsInExpression\obj\Debug\_03.BracketsInExpression.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\8. Strings and Text Processing\03. BracketsInExpression\obj\Debug\03. BracketsInExpression.csprojResolveAssemblyReference.cache

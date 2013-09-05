@@ -1,0 +1,6 @@
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\08. ReplacementWords\bin\Debug\_08.ReplacementWords.exe.config
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\08. ReplacementWords\bin\Debug\_08.ReplacementWords.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\08. ReplacementWords\bin\Debug\_08.ReplacementWords.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\08. ReplacementWords\obj\Debug\_08.ReplacementWords.exe
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\08. ReplacementWords\obj\Debug\_08.ReplacementWords.pdb
+D:\трети курс\софтуерна академия\4. C# part 2\Homeworks\7. Text Files\08. ReplacementWords\obj\Debug\08. ReplacementWords.csprojResolveAssemblyReference.cache
